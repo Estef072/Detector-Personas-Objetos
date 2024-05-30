@@ -1,0 +1,7 @@
+# Ignorar la carpeta yolo
+yolo/
+
+# Otras reglas de ignorar archivos que puedas necesitar
+*.log
+*.tmp
+__pycache__/

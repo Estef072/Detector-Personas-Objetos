@@ -5,3 +5,6 @@ yolo/
 *.log
 *.tmp
 __pycache__/
+data/
+yolov5/
+yolov5s.pt
